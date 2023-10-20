@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+
+html {
+  font-family: 'Hind', sans-serif;
+}
+
+.container{
+  margin-left: 10px;
+}
